@@ -1,9 +1,9 @@
 ![TimeBench](timebench-logo-title-tagline-transp_668.png)
 ================================
  
-TimeBench, a flexible, easy-to-use, and reusable software library written in 
-Java that provides foundational data structures and algorithms for time-
-oriented data in Visual Analytics. Thus, it eases the development and testing 
+TimeBench is a flexible, easy-to-use, and reusable software library written in 
+Java that provides foundational data structures and algorithms for time-oriented 
+data in Visual Analytics. Thus, it eases the development and testing 
 of new visualization, interaction, and analysis methods. It facilitates the 
 reuse and combination of such methods and fosters their reproducibility and 
 comparability.
